@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**KripaMittal829/KripaMittal829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kripa Mittal,currently a Cse Student.
+ 
+I’m currently learning flutter & Secure Coding ,Java,CyberSecurity.
 
-Here are some ideas to get you started:
+I am currently working on Java Projects & Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Main Tech Stack is Java | HTML5 | CSS3 | JAVASCRIPT | Responsive Design | Flutter(Learning) 
+
+Tools & Platforms I use are Git | GitHub | VS Code | Intellij Idea.
+
+I’m looking to collaborate on Beginner-Friendly Projects.
+
+ Ask me about Java,GitHub,Basic Web Development.
+
+ Pronouns: She/Her.
+
